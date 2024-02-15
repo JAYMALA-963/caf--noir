@@ -1,10 +1,13 @@
 import './App.css'
+import Layout from './components/layout/Layout'
 
 function App() {
 
   return (
     <>
-      Welcome to the Café Noir
+      <Layout>
+        Welcome to the Café Noir
+      </Layout>
     </>
   )
 }
