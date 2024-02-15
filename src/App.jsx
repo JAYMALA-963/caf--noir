@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    
+      Welcome to the Café Noir
     </>
   )
 }
